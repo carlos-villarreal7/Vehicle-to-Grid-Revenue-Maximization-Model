@@ -1,0 +1,12 @@
+{
+  "status": "OPTIMAL",
+  "objective_value": 18.603560496364782,
+  "total_revenue": 34.4220158439583,
+  "total_cost": 15.818455347593519,
+  "net_profit": 18.60356049636478,
+  "final_energy_by_ev": {
+    "0": 10.0,
+    "1": 12.0,
+    "2": 14.0
+  }
+}
